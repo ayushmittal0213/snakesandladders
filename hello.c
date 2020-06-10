@@ -1,3 +1,3 @@
 #include<iostream.h>
 #include<stdio.h>
-printf(hello|");
+printf(hello!");
